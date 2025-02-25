@@ -28,5 +28,5 @@
           <li>Colocamos los siguientes datos:</li>
           <li>Nombre: PixelmonRanger</li>
           <li>Dirección IP: PXRanger.mcraft.pro</li>
-        Una vez hecho todo, deberías poder ingresar. Por parte del staff, te deseamos mucha suerte en esta aventura.
+        Una vez hecho todo, deberías poder ingresar, por parte del staff, te deseamos mucha suerte en esta aventura.
 <!--  -->
